@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @anan555kh
-- 👀 I’m interested in programing and computer science
-- 🌱 I’m currently learning making programs in c++
-- 💞️ I’m looking to collaborate on helping any begginer to learn the basics of the computer science
-- 📫 How to reach me my phone number +963 934 196 666 , my location is in Syria , Email: nanoappleid97@gmail.com
+- I am a software developer.
+- expert at C++, Python.
+- have experience in web design Html 5, and Css.
+- 3d designing and moduling using 3DS MAX.
+- professional photo editing using Photoshop and Lightroom.
+  
 
 <!---
 anan555kh/anan555kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
